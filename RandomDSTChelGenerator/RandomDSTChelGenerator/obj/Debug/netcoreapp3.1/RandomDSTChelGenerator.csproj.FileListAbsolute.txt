@@ -1,0 +1,14 @@
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\bin\Debug\netcoreapp3.1\RandomDSTChelGenerator.exe
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\bin\Debug\netcoreapp3.1\RandomDSTChelGenerator.deps.json
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\bin\Debug\netcoreapp3.1\RandomDSTChelGenerator.runtimeconfig.json
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\bin\Debug\netcoreapp3.1\RandomDSTChelGenerator.runtimeconfig.dev.json
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\bin\Debug\netcoreapp3.1\RandomDSTChelGenerator.dll
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\bin\Debug\netcoreapp3.1\RandomDSTChelGenerator.pdb
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\obj\Debug\netcoreapp3.1\RandomDSTChelGenerator.csproj.AssemblyReference.cache
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\obj\Debug\netcoreapp3.1\RandomDSTChelGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\obj\Debug\netcoreapp3.1\RandomDSTChelGenerator.AssemblyInfoInputs.cache
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\obj\Debug\netcoreapp3.1\RandomDSTChelGenerator.AssemblyInfo.cs
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\obj\Debug\netcoreapp3.1\RandomDSTChelGenerator.csproj.CoreCompileInputs.cache
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\obj\Debug\netcoreapp3.1\RandomDSTChelGenerator.dll
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\obj\Debug\netcoreapp3.1\RandomDSTChelGenerator.pdb
+C:\EiM\Projects\RandomDSTChelGenerator\RandomDSTChelGenerator\obj\Debug\netcoreapp3.1\RandomDSTChelGenerator.genruntimeconfig.cache
